@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "action": "read",
+      "resource": "fileA"
+    },
+    {
+      "action": "write",
+      "resource": "fileB"
+    }
+  ]
+}
